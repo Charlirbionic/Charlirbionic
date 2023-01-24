@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charlirbionic
+- 👋 Hi, I’m Charls
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning basic coding
 - 💞️ I’m looking to collaborate on ...
